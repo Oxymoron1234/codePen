@@ -89,11 +89,11 @@ html,body{
     border: 1px solid black;
 }
 .item-1 .head-7 .btn {
-    background-color: #4CAF50; /* Green */
+    background-color: #414553; /* Green */
     padding: 12px 24px;
   }
   .item-1 .head-7 .btn:hover{
-    background-color: #65e669;
+    background-color: #7e818b;
   }
 .item-3{
     background-color: #414553;
